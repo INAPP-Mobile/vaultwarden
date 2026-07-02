@@ -36,7 +36,7 @@ Vaultwarden is one of the most popular self-hosted password managers because it 
 3. **Small Team Security** — distribute API keys and credentials across a small team
 4. **Security Auditing** — maintain full control over password data without relying on third-party providers
 
-## Dependencies
+## Dependencies for
 
 This template runs as a single Docker container with no external dependencies. All data is stored in the local SQLite database within the volume mounted at `/data`.
 
