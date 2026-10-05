@@ -1,4 +1,4 @@
-FROM vaultwarden/server:1.37.1
+FROM vaultwarden/server:1.37.3
 
 # Configure Vaultwarden to listen on 8080 (Railway's expected port)
 # and use /data for persistent storage (Railway volume mount).
